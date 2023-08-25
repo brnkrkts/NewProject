@@ -50,6 +50,3 @@ If you encounter any issues while using the program, such as timeouts, element n
 
 This program is provided for educational and informational purposes only. The use of automated tools to interact with websites, including Instagram, might be against the terms of service of these websites. Use this program responsibly and at your own risk. The creators of this program are not responsible for any misuse or violations of terms of service.
 
----
-
-Feel free to modify this README as needed and include any additional information you find relevant.
